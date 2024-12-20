@@ -11,3 +11,4 @@
     - [ ] Integration tests
 - [ ] Code is reviewed by at least 1 team member
 - [ ] Pull request is tagged with "risk/good-to-go" label
+- [ ] Demo added
